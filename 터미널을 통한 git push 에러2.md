@@ -12,7 +12,7 @@
 
 -> 저장소가 비어있다는 것이다.
 
-그런데 이미 인텔리제이와 연동되어 파일이 존재하는 저장소이다. 그래서 branch를 살펴보니  얼마전에 기본 branch가 master에서 main 으로 변경되었다. ('Black Lives Matter' 운동에 따라 master와 slave의 관계가 연상되는 단어를 바꾼거란다....) 
+그런데 이미 인텔리제이와 연동되어 파일이 존재하는 저장소이다. 그래서 branch를 살펴보니  얼마 전에 기본 branch가 master에서 main 으로 변경되었다. ('Black Lives Matter' 운동에 따라 master와 slave의 관계가 연상되는 단어를 바꾼거란다....) 
 
 ##   해결
 
